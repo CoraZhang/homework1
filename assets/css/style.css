@@ -32,9 +32,15 @@ body {
     font-size: 20px;
 }
 
+
+/*change to match required styles*/
+
 .header div ul {
     list-style-type: none;
 }
+
+
+/*change to match required styles*/
 
 .header nav ul li {
     display: inline-block;
